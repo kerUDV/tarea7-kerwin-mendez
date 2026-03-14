@@ -21,7 +21,9 @@ Si se intenta consultar o eliminar un evento cuando la pila está vacía, el sis
 
 Desde la terminal ejecutar:
 PS C:\Users\keruv\IdeaProjects\tarea7-kerwin-mendez> javac src/Main.java
+
 PS C:\Users\keruv\IdeaProjects\tarea7-kerwin-mendez> java -cp src Main
+
 Último evento registrado: ERROR CRÍTICO: fallo en sistema de navegación
 Protocolo de revisión activado. Eliminando los últimos 3 eventos:
 - ERROR CRÍTICO: fallo en sistema de navegación
@@ -30,4 +32,5 @@ Protocolo de revisión activado. Eliminando los últimos 3 eventos:
 Estado actual de la bitácora:
 Total de eventos restantes: 3
 Evento actual en la cima: Señal de comunicación estable
+
 PS C:\Users\keruv\IdeaProjects\tarea7-kerwin-mendez> 
